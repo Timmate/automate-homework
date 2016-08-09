@@ -2,7 +2,7 @@
 #
 # NAME         : strip_with_re.py
 #
-# DESCRIPTION  : The regex analog of the `strip()` Python built-in function.
+# DESCRIPTION  : The regex analog of the Python's `strip()` built-in function.
 #
 # AUTHOR       : Tim Kornev (Timmate profile on GitHub)
 #
