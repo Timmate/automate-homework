@@ -4,7 +4,7 @@
 #
 # DESCRIPTION  : Calcululates number of days left until specified dates.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 15th of July, 2016
 #

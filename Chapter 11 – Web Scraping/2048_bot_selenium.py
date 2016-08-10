@@ -4,7 +4,7 @@
 #
 # DESCRIPTION  : Uses `selenium` to play 2048 game online.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 7th of July, 2016
 

@@ -4,7 +4,7 @@
 #
 # DESCRIPTION  : Simulates a dumb human that moves the mouse.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 9th of August, 2016
 #

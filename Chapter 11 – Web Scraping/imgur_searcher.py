@@ -5,7 +5,7 @@
 # DESCRIPTION  : Opens several web pages on Imgur.com with searching results for
 #                command line arguments.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 7th of July, 2016
 #

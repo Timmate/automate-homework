@@ -4,7 +4,7 @@
 #
 # DESCRIPTION  : Looks for URLs in the clipboard. 
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 4th of July, 2016
 

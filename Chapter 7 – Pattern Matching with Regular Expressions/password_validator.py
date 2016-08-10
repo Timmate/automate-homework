@@ -2,9 +2,9 @@
 #
 # NAME         : password_validator.py
 #
-# DESCRIPTION  : Ensures that a password is strong.
+# DESCRIPTION  : Validates password's strength.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 7th of August, 2016
 

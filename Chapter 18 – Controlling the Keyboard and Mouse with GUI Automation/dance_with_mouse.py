@@ -3,8 +3,9 @@
 # NAME         : dance_with_mouse.py
 #
 # DESCRIPTION  : Memorizes mouse moves pattern or repeats an existing one.
+#                Note that it does not involve mouse clicking and dragging. Yet.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 23rd of July, 2016
 #

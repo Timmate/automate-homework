@@ -4,7 +4,7 @@
 #
 # DESCRIPTION  : The regex analog of the Python's `strip()` built-in function.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 7th of August, 2016
 

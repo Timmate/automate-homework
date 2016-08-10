@@ -7,7 +7,7 @@
 #                ADJECTIVE, NOUN, VERB or ADVERB appears in the text file.
 #                Writes the result to a new file with prefix 'mad_'.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 4th of July, 2016
 #

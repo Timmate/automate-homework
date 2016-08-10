@@ -6,7 +6,7 @@
 #                looks for any text that matches a regex pattern given by
 #                the user. 
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 4th of July, 2016
 #

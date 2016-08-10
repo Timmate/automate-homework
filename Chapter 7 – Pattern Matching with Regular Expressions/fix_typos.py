@@ -7,7 +7,7 @@
 #                or multiple exclamation marks at the end of sentences.
 #                Those are annoying!! Uses the text from the clipboard.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 6th of August, 2016
 #

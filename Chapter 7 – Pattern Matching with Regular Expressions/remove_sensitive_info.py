@@ -5,7 +5,7 @@
 # DESCRIPTION  : Removes sensitive information such as Social Security
 #                or credit card numbers from the clipboard.
 #
-# AUTHOR       : Tim Kornev (Timmate profile on GitHub)
+# AUTHOR       : Tim Kornev (@Timmate on GitHub)
 #
 # CREATED DATE : 6th of August, 2016
 
